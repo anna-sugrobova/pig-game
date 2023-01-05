@@ -20,3 +20,16 @@ The application allows to:
 - JavaScript
 
 We have two players. The player wins whenever the score is 100 points.
+
+### How to run locally
+
+* install dependencies
+```js
+npm install
+// or
+yarn
+```
+* start local server on localhost:3000
+```
+npm run start
+```
